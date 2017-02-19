@@ -8,7 +8,7 @@
 
 import UIKit
 
-class CustomCell: UICollectionViewCell, UIGestureRecognizerDelegate {
+class CustomCell: UICollectionViewCell {
 
 
   var cellLabel: UILabel!
